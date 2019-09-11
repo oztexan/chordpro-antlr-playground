@@ -1,10 +1,8 @@
 {
-  "name": "antlr-js-tutorial",
+  "name": "chordpro-antlr-js",
   "version": "1.0.0",
   "dependencies": {
     "antlr4": "^4.7.2"
   },
-  "devDependencies": {
-    "nodeunit": "^0.10.2"
-  }
+  "devDependencies": {}
 }
